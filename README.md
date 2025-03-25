@@ -7,7 +7,14 @@ This project is a blog website developed using Django during my school internshi
 🚀 Features
 
 📝 Create and manage blog posts
+
 💬 Comment section for user interaction
+
+
 🔐 User authentication (registration, login, logout)
+
+
 📂 Database integration with Django ORM
+
+
 🎨 Responsive design using HTML, CSS, and Bootstrap
